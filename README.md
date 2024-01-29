@@ -1,7 +1,7 @@
 # SaaS Website Builder, Project Management And Dashboard With Stripe Custom Onboarding To Connect and Sync Users Stripe Accounts
 # Nextjs14, Bun, Stripe Connect, Prisma, MySQL, Tailwind
 
-![Application Logo]([https://raw.githubusercontent.com/webprodigies/webprodigies-cypress/main/public/cover.png](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png))
+![Application Logo](https://storage.googleapis.com/msgsndr/0wtSXexlPhMN1945ooxW/media/65b7c3d24660477daf3d6708.png)
 
 | 🟢 Full Video | 🔴 Demo |
 |------------|------|
