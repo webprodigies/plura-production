@@ -315,7 +315,7 @@ export const upsertSubAccount = async (subAccount: SubAccount) => {
       role: 'AGENCY_OWNER',
     },
   })
-  if (!agencyOwner) return console.log('🔴Erorr could not create subaccount')
+  if (!agencyOwner) return console.log('🔴Error could not create subaccount')
   const permissionId = v4()
   const response = await db.subAccount.upsert({
     where: { id: subAccount.id },
